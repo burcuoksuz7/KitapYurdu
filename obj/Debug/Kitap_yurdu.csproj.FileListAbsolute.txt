@@ -1,0 +1,10 @@
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\bin\Debug\Kitap_yurdu.exe.config
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\bin\Debug\Kitap_yurdu.exe
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\bin\Debug\Kitap_yurdu.pdb
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\obj\Debug\Kitap_yurdu.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\obj\Debug\Kitap_yurdu.Form1.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\obj\Debug\Kitap_yurdu.Properties.Resources.resources
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\obj\Debug\Kitap_yurdu.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\obj\Debug\Kitap_yurdu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\obj\Debug\Kitap_yurdu.exe
+C:\Users\Casper\Desktop\ÇALIŞMALAR\C#\Kitap_yurdu\obj\Debug\Kitap_yurdu.pdb
